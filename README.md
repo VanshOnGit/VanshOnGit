@@ -3,6 +3,7 @@
 🎓 Junior Undergraduate @ IIT Gandhinagar  
 🤖 Passionate about AI & LLMs  
 🤖 Ex-GenAI Intern @ Tata Communications
+
 📈 Upcoming Summer 2026 Intern Axxela Research & Analytics Pvt Ltd
 
 ---
